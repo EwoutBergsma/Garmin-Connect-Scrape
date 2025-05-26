@@ -1,0 +1,4 @@
+# python -m pip install -r requirements.txt
+glob2
+numpy
+beautifulsoup4
