@@ -1,0 +1,29 @@
+Start Time,Sleep Cycle
+1900-01-01 23:51:00,Light Sleep
+1900-01-01 23:59:00,Deep Sleep
+1900-01-02 00:45:00,Light Sleep
+1900-01-02 00:58:00,Deep Sleep
+1900-01-02 01:15:00,Light Sleep
+1900-01-02 01:24:00,Deep Sleep
+1900-01-02 01:32:00,Light Sleep
+1900-01-02 01:49:00,REM Sleep
+1900-01-02 02:08:00,Light Sleep
+1900-01-02 02:22:00,REM Sleep
+1900-01-02 02:23:00,Light Sleep
+1900-01-02 02:24:00,REM Sleep
+1900-01-02 02:25:00,Light Sleep
+1900-01-02 03:49:00,Deep Sleep
+1900-01-02 04:01:00,Light Sleep
+1900-01-02 04:16:00,REM Sleep
+1900-01-02 05:10:00,Light Sleep
+1900-01-02 06:16:00,Unmeasurable
+1900-01-02 06:36:00,Light Sleep
+1900-01-02 06:47:00,REM Sleep
+1900-01-02 07:01:00,Light Sleep
+1900-01-02 07:34:00,Deep Sleep
+1900-01-02 07:44:00,Light Sleep
+1900-01-02 07:45:00,Awake
+1900-01-02 07:46:00,Light Sleep
+1900-01-02 08:01:00,REM Sleep
+1900-01-02 08:13:00,Light Sleep
+1900-01-02 08:24:00,End of Sleep
